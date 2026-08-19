@@ -1,2 +1,2 @@
 region: us-west-2
-auth_token: ghp_1234567890abcdefghij
+auth_token: ${DEPLOY_TOKEN}   # injected by CI
