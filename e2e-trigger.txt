@@ -1,1 +1,1 @@
-e2e sync trigger 045231
+alert-mode trigger
